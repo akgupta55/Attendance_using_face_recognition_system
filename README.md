@@ -22,6 +22,7 @@
 
 ### WELCOME PAGE UI
 
+<img width="960" alt="welcome page" src="https://user-images.githubusercontent.com/85104610/170744863-5c242f2c-3c57-4c1f-9ae6-154e357e50d4.png">
 
 ### While taking Image
 
